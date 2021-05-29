@@ -1,4 +1,4 @@
-// Package jwt is a barebones JWT implementation that supports just the bare necessities.
+// Package gfjwt is a barebones JWT implementation that supports just the bare necessities.
 package gfjwt
 
 // Header contains important information for encrypting / decrypting
